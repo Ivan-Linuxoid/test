@@ -1,4 +1,5 @@
 ````markdown
+RobotX
 <div align="center">
 
 # 🤖 ROSik BIBA
@@ -436,7 +437,7 @@ Live-поток минимизирует задержки при работе.
 
 # ROSik BIBA
 
-### Built by engineers • Designed for robotics
+### Built by RobotX engineers • Designed for RobotX
 
 </div>
 ```
